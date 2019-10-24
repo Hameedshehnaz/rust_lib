@@ -5,6 +5,7 @@ authors = ["Hameedshehnaz <shehnazhameed325n@gmail.com>"]
 edition = "2018"
 description = "calculates percentiles, ranks and positions of the data(repeated values as well) in given vector"
 license = "MIT"
+repository = "https://github.com/Hameedshehnaz/rust_lib.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
